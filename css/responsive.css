@@ -1,0 +1,61 @@
+/* Custom Responsive Stylesheet */
+
+@media (min-width:1200px) {
+	
+
+}
+
+@media (max-width: 991px){
+    
+   .service-box {
+   	 margin-top: 4%;
+   }
+}
+
+@media (max-width: 768px){
+    
+   .service-box {
+   	 margin-top: 4%;
+   }
+
+   #home {    
+    padding-top: 45%;
+  }
+}
+ 
+
+
+@media (max-width: 480px){
+
+  .section-title {
+  	font-size: 45px;
+  }
+
+  .service-box {
+   	 margin-top: 4%;
+   }
+
+   #home {    
+    padding-top: 45%;
+ }
+
+
+}
+
+
+@media (max-width: 360px){
+
+  .section-title {
+  	font-size: 35px;
+  }
+
+  .service-box {
+   	 margin-top: 4%;
+   }
+
+  #home {    
+    padding-top: 45%;
+  }
+
+
+}
